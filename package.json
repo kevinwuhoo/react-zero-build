@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "npx serve"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.4",
+    "serve": "^11.3.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "proseWrap": "always"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kevinwuhoo/react-zero-build"
+  },
+  "license" : "MIT"
+}
